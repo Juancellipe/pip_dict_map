@@ -1,13 +1,3 @@
-# Game Project
-
-go to terminal and run
-
-```sh
-cd game
-python3 main.py
-```
-
-
 # App Project
 
 ```sh
